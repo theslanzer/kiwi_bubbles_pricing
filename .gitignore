@@ -47,3 +47,14 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.Rhistory
+*.pdf
+sample_final_comp.R
+sample_final_solution(1).pdf
+Project1/*
+Project2/*.docx
+Project2/*.pdf
+kiwi_bubbles_final.csv
+*.html
+*.txt
+Project2/proj_2.R
